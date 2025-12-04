@@ -1,1 +1,1 @@
-console.log("remote");
+console.log("local and remote");
